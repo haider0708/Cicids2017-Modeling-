@@ -1,0 +1,12 @@
+.venv/
+venv/
+
+# Ignore datasets
+Datasets/
+Datasets_original/
+
+Models/
+# Ignore IDE/project files
+.idea/
+*.iml
+.DS_Store
